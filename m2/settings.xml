@@ -1,0 +1,23 @@
+    <settings>
+
+  
+   
+   
+
+
+<proxies>
+   
+    <proxy>
+      <id>optional</id>
+      <active>true</active>
+      <protocol>https</protocol>
+      <username>WIPRO\apatra02</username>
+      <password>Yahoo$9876</password>
+      <host>DSZ-Proxy.wipro.com</host>
+      <port>8080</port>
+     
+    </proxy>
+  
+  </proxies>
+
+ </settings>
