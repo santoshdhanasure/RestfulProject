@@ -9,7 +9,7 @@ import junit.framework.Assert;
 public class DummyTest {
 @Test
 public void  test() {
-		Assert.assertEquals(CustDao.insertData("ANil", "Pune"),true);
+		Assert.assertEquals(CustDao.insertData("ANil", "Pune"),false);
 	}
 
 }
